@@ -1,0 +1,1 @@
+// Aquí escribiremos el código necesario para configurar la ventana principal de nuestra aplicación.
